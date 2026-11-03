@@ -5,7 +5,7 @@ A project done for the course CSE2013 - Introduction to Machine Learning Lab
 <ul>
 <li><b>UDIT GARG 2420869</b> Github: <a href="https://github.com/uditgarg7">uditgarg7</a></li>
 <li><b>VANSH BHARDWAJ 2420871</b> Github: <a href="https://github.com/vansh252">vansh252</a></li>
-<li><b>Udhay Partap Singh 2420868</b> Github: <a href="https://github.com/udhaypartap70-blip">udhaypartap70-blip</a></li>
+<li><b>UDHAY PARTAP SINGH 2420868</b> Github: <a href="https://github.com/udhaypartap70-blip">udhaypartap70-blip</a></li>
 </ul>
 <h2>Abstract</h2>
 Earthquakes are natural disasters that can cause significant damage and loss of life. Accurate prediction of earthquakes is essential for developing early warning systems, disaster planning, risk assessment, and scientific research.
